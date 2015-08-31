@@ -1,0 +1,31 @@
+.cell {
+	border: solid 1px black;
+	height: 15px;
+	width: 15px;
+	display: inline-block;
+}
+
+h1 {
+	float:block;
+	text-align: center;
+	margin-top: 30px;
+	color: red;
+}
+
+h5 {
+	float:block;
+	text-align: center;
+	margin: 10px 10px 10px 10px;
+	color: black;
+}
+
+form {
+	margin: 10px 10px 10px 10px;
+	padding: 5px;
+	text-align: center;
+	color: red;
+}
+
+p {
+	text-align: center;
+}
